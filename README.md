@@ -1,7 +1,6 @@
 SWDB Tools
 ----------
-
-bla bla bla
+bla conflict
 
 A collection of shared SWDB tools and such.
 
