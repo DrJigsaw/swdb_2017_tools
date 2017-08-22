@@ -2,7 +2,7 @@ SWDB Tools
 ----------
 bla conflict
 
-A collection of shared SWDB tools and such.
+A collection of shared SWDB tools. AND SUCH.
 
 ## Support
 
